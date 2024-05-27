@@ -427,6 +427,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "/home/ndholmes/data/projects/ise-kicad/3DModels/Terminal_Block_2Pos_5mm.stp"
+      (offset (xyz -2.54 -3.556 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Package_SO:SO-16_3.9x9.9mm_P1.27mm" (layer "F.Cu")
@@ -494,6 +499,11 @@
       (net 46 "/AA_MSS_OUT") (pintype "output") (tstamp c3455324-06ff-4aee-89b4-d87bd3dc9bf3))
     (pad "16" smd roundrect (at 2.575 -4.445 270) (size 1.75 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e4fb6044-fecf-4eff-86e3-42e5b17addd7))
     (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-16_3.9x9.9mm_P1.27mm.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -845,6 +855,11 @@
       (net 3 "+5V") (pinfunction "1") (pintype "input") (zone_connect 2) (tstamp c3fa25a5-ddbd-43ee-84c4-789c640f1bf9))
     (pad "2" smd rect (at 2.2987 0) (size 2.1082 5.5626) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 20 "Net-(D10-Pad2)") (pinfunction "2") (pintype "input") (tstamp b40bcddd-9a49-41f1-90eb-02e8ba2d1b26))
+    (model "/home/ndholmes/data/projects/ise-kicad/3DModels/Coilcraft-MSS6132.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 -90))
+    )
   )
 
   (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
@@ -1128,6 +1143,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "/home/ndholmes/data/projects/ise-kicad/3DModels/A-2004-1-4-LP-N-R.step"
+      (offset (xyz 3.175 -16.51 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad" (layer "F.Cu")
@@ -1355,6 +1375,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "/home/ndholmes/data/projects/ise-kicad/3DModels/RJ45_Amphenol_54602-908LF.step"
+      (offset (xyz 4.445 -6.35 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -2288,6 +2313,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "/home/ndholmes/data/projects/ise-kicad/3DModels/A-2004-1-4-LP-N-R.step"
+      (offset (xyz 3.175 -16.51 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Package_SO:SO-16_3.9x9.9mm_P1.27mm" (layer "F.Cu")
@@ -2355,6 +2385,11 @@
       (net 55 "unconnected-(U4-Pad15)") (pintype "output") (tstamp 112b89f4-f14b-4985-a572-a47af35c8ae0))
     (pad "16" smd roundrect (at 2.575 -4.445 270) (size 1.75 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9b3af1b8-3787-491d-977f-9b3d4d09156b))
     (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-16_3.9x9.9mm_P1.27mm.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
